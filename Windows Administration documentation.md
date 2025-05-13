@@ -16,3 +16,15 @@ Objectives
 10. Join the **WinSrv22Proj-D22** to the domain and promote it as a backup Domain controller
 11. Test failover and AD replication
 
+
+
+
+**1. Deploy Windows server 2022 VM in Hyper-V**
+Deploy the Virtual machine in Microsoft Hyper-V and install the Windows Server 2022. The server WinSrv22Proj-DC1 will server as the primary domain controller 
+
+<img width="527" alt="Virtual machine creation" src="https://github.com/user-attachments/assets/816a2eac-8d5b-4a27-85ee-1ad55165ad54" />
+
+<img width="771" alt="install windows server 2022" src="https://github.com/user-attachments/assets/ef296d1c-5eb2-4ce1-a82b-727bb91fa1f3" />
+
+<img width="960" alt="Confirmation of creation" src="https://github.com/user-attachments/assets/ba0e3ee7-22d7-430b-ae81-e653ec55daeb" />
+
