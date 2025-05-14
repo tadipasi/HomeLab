@@ -30,3 +30,12 @@ Deploy the Virtual machine in Microsoft Hyper-V and install the Windows Server 2
 
 <br/>
 
+**2. Assign static IP to the server**<br/>
+Assigned static IP address to the server 
+
+<img width="1025" alt="statically assign IP address" src="https://github.com/user-attachments/assets/645b9ab4-156c-4e8d-98c7-7b5982d806f4" />
+
+
+
+
+
