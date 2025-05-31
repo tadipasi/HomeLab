@@ -66,6 +66,66 @@ Assigned static IP address to the server
 
 <img width="577" alt="create a domain user" src="https://github.com/user-attachments/assets/a99e5ca1-21c8-4cf3-929a-e8127a3200db" />
 
+<br/>
+<br/>
+<br/>
+<br/>
+
+**5.**
+
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**6.**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**7.**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+**8.**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+
+**9.**
+<br/>
+<br/>
+<br/>
+<br/>
+
+**10.**
+<br/>
+<br/>
+<br/>
+<br/>
+
+**11.**
+<br/>
+<br/>
+<br/>
+<br/>
+
+**12.**
+<br/>
+<br/>
+<br/>
+<br/>
+
 
 
 
